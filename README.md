@@ -2,7 +2,7 @@
 
 To develop a method to address the multipath effect noise in WiFi-based gesture recognition and location classification, and mitigate the impact of amplitude changes caused by location variation on gesture feature extraction and recognition.The AFERSM-Net model was evaluated on the dual-labeled gesture and location dataset, achieving 97.84% accuracy for gesture recognition and 98.92% accuracy for location classification. The model outperforms existing network frameworks, based on evaluation metrics such as confusion matrix, precision, recall, specificity, and F1 scores. The proposed network also demonstrates superior performance in handling both tasks when compared to other algorithms, showing its suitability for the CSI dataset.AFERSM-Net demonstrates exceptional performance in both gesture recognition and location classification tasks, outperforming other existing network frameworks. Its high accuracy and robustness make it a promising approach for practical applications in WiFi-based gesture recognition and indoor location classification.
 
-![](D:\File\个人空间\研究生资料\研究生资料\项目\姿态识别定位\原稿及审稿人意见-第二次\github代码\project2\Fig2.png)
+![](https://github.com/Purecade-czx/AFERSM-Net/blob/main/Fig2.png)
 
 ## Usage
 
